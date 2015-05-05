@@ -1,0 +1,27 @@
+{
+  "name": "four-sides-1px-9patcher",
+  "version": "0.0.1",
+  "description": "9-patch image each side 1px",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/junkoro/four-sides-1px-9patcher.git"
+  },
+  "keywords": [
+    "node.js",
+    "9-patch",
+    "android"
+  ],
+  "author": "junkoro <junkorochan@gmail.com> (https://github.com/junkoro)",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/junkoro/four-sides-1px-9patcher/issues"
+  },
+  "homepage": "https://github.com/junkoro/four-sides-1px-9patcher#readme",
+  "dependencies": {
+    "canvas": "^1.2.2"
+  }
+}
