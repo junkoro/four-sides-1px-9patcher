@@ -1,6 +1,6 @@
 {
   "name": "four-sides-1px-9patcher",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "9-patch image each side 1px",
   "main": "index.js",
   "scripts": {
