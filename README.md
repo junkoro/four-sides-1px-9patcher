@@ -25,7 +25,7 @@ $ npm install four-sides-1px-9patcher
 ## Usage
 ```javascript
 var fourSides1px9patcher = require('four-sides-1px-9patcher');
-fourSides1px9patcher('src.png', 'dst.png');
+fourSides1px9patcher('src.png', 'dst.9.png');
 ```
 
 ## License
