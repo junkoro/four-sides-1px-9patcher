@@ -1,5 +1,5 @@
 # four-sides-1px-9patcher
-Automatically 9-patch image like this.
+This is a node module that do 9-patch image automatically like this.
 
 ![FourSide1px9patch.png](img/FourSide1px9patch.png "FourSide1px9patch.png")
 
